@@ -3,6 +3,8 @@ note: All the SQL query I write is in "query.sql" and the visualizations I creat
 ## Discription
 In this challenge I were assume to be working in a imaginary company atliq hardwares as a Data Analyst and my task is to provide some insights on different problems which company is facing.
 
+**View** https://drive.google.com/file/d/1fNP_521KYIVYknQ_iQblK0xd2ghj_vXj/view?usp=sharing
+
 ## ✅ Challenge : Provide Insights to Management in Consumer Goods Domain
 
 ## ✅ What is actually company needed is described below:
@@ -23,6 +25,17 @@ However, the management noticed that they do not get enough insights to make qui
 
 the tools I used for this project are MYSQL WORKBENCH and used SQL to get the insights and then used MS EXCEL to visualize those insights that are generated from SQL. Visualization is necessary to convey a clear story.
 
-✔ I know most of the concepts in SQL like joins, select, where, group by, order by, limit and many more. All of them are used in the
+✔ I know most of the concepts in SQL like joins, select, where, group by, order by, limit and many more. All of them are used in this project and more advanced concepts like CTE and WINDOW FUNCTION were also needed in this projects that I had learned so it was also a great learning opportunity for me as well.
 
-this project and more advanced concepts like CTE and WINDOW FUNCTION were also needed in this projects that I had learned so it was also a great learning opportunity for me as well.
+## ✅ Some of the insights I find are:
+
+✔ Unique products in 2021 are 334 and in 2020 are 245 there is 36.33% increase in unique products in 2021
+
+✔ Highest no. of unique products are 129 and 116 in Notebook and Accessories category respectively then 84, 32, 27, 9 in Peripherals, Desktop, Storage, Networking respectively.
+
+✔ In fiscal year 2020 the highest total quantity was sold in 1st quarter  
+
+✔ Retailer helped us to bring more gross sales $1924.17 mln that is 73.22% out of total sales in fiscal year 2021.
+
+and many more...
+
