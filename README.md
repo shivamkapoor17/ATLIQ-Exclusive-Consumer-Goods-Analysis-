@@ -3,7 +3,7 @@ note: All the SQL query I write is in "query.sql" and the visualizations I creat
 ## Discription
 In this challenge I were assume to be working in a imaginary company atliq hardwares as a Data Analyst and my task is to provide some insights on different problems which company is facing.
 
-**View** https://drive.google.com/file/d/1fNP_521KYIVYknQ_iQblK0xd2ghj_vXj/view?usp=sharing
+**View:** https://drive.google.com/file/d/1fNP_521KYIVYknQ_iQblK0xd2ghj_vXj/view?usp=sharing
 
 ## ✅ Challenge : Provide Insights to Management in Consumer Goods Domain
 
